@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @revdrb
+- 👀 I’m interested in cryptic projects and web design
+- 🌱 I’m currently learning how to build a customizable live OS (optimized for basic gaming) with persistant storage.
+- 💞️ I’m looking to collaborate on live OS design, mini games, visual novels
+- 📫 How to reach me magiccastle@folkhaus.org
